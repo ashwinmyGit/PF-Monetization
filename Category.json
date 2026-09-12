@@ -52,13 +52,13 @@
   "Category": {
     "Photoframe": [
       {
-        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_banner.png",
         "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.photoeditorpro"
       }
     ],
     "Photoeditor": [
       {
-        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_banner.png",
         "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.festivalphotoframes"
       }
     ]
