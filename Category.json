@@ -1,37 +1,92 @@
 {
+  "global_controls": {
+    "global_ads_enabled": true
+  },
+  "apps_config": {
+    "com.photofusion.festivalphotoframes": {
+      "ads_enabled": true,
+      "show_banner": true,
+      "show_interstitial": true,
+      "show_rewarded": true,
+      "show_native": true,
+      "show_open_app": true,
+      "ad_units": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "open_app": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
+    "com.photofusion.photoeditorpro": {
+      "ads_enabled": true,
+      "show_banner": true,
+      "show_interstitial": true,
+      "show_rewarded": true,
+      "show_native": true,
+      "show_open_app": false,
+      "ad_units": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "open_app": "ca-app-pub-3940256099942544/9257395921"
+      }
+    }
+  },
+  "default_fallback_config": {
+    "ads_enabled": true,
+    "show_banner": true,
+    "show_interstitial": true,
+    "show_rewarded": true,
+    "show_native": true,
+    "show_open_app": true,
+    "ad_units": {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "rewarded": "ca-app-pub-3940256099942544/5224354917",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "open_app": "ca-app-pub-3940256099942544/9257395921"
+    }
+  },
   "Category": {
     "Photoframe": [
       {
-        "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.festivalframes"
-      },
-      {
-        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_banner.png"
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
+        "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.photoeditorpro"
       }
     ],
     "Photoeditor": [
       {
-        "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.photoeditorpro"
-      },
-      {
-        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_banner.png"
-      } 
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
+        "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.festivalphotoframes"
+      }
     ]
   },
   "Notifications": {
     "Photoframe": [
-      {"title": "New Frames Added! 🎨", "message": "Try the latest festival frames today."},
-      {"title": "Create Your Memory 📸", "message": "Frame your best photos in one single tap."},
-      {"title": "Trending Designs ✨", "message": "Check out new trending photo borders now."},
-      {"title": "Special Moments ❤️", "message": "Celebrate your memories with stunning frame edits."},
-      {"title": "Daily Feature 🔥", "message": "Discover today's most popular frame styles."},
-      {"title": "Edit Like a Pro 🌟", "message": "Apply beautiful filters and frames instantly."},
-      {"title": "Festival Collection 🎊", "message": "Fresh templates are waiting for your photos."},
-      {"title": "Don't Miss Out! 🚀", "message": "Open the app to see today's curated layouts."}
+      {
+        "title": "New Festival Frames Added! 🎨",
+        "message": "Transform your favorite memories with brand-new festive templates today."
+      },
+      {
+        "title": "Your Daily Frame is Ready ✨",
+        "message": "Create a stunning photo collage in under 60 seconds!"
+      },
+      {
+        "title": "Share Wishes in Style 📸",
+        "message": "Design personalized greeting cards for your friends and family."
+      }
     ],
     "Photoeditor": [
-      {"title": "Enhance Your Photos ✂️", "message": "Use premium effects on your pictures today."},
-      {"title": "Fresh Filters Inside 🌈", "message": "Transform your images with 1-click presets."},
-      {"title": "Pro Editing Made Easy 🖌️", "message": "Retouch and share your best edits now."}
+      {
+        "title": "Try Pro Filters for Free ⚡",
+        "message": "Enhance your portraits with 1-tap neon and vintage presets."
+      },
+      {
+        "title": "Polish Your Photos Today ✨",
+        "message": "Cut, crop, and tune your pictures with HD export."
+      }
     ]
   }
 }
