@@ -1,0 +1,37 @@
+{
+  "Category": {
+    "Photoframe": [
+      {
+        "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.festivalframes"
+      },
+      {
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/pf-monetization/main/promo_banner.png"
+      }
+    ],
+    "Photoeditor": [
+      {
+        "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.photoeditorpro"
+      },
+      {
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/pf-monetization/main/promo_banner.png"
+      }
+    ]
+  },
+  "Notifications": {
+    "Photoframe": [
+      {"title": "New Frames Added! 🎨", "message": "Try the latest festival frames today."},
+      {"title": "Create Your Memory 📸", "message": "Frame your best photos in one single tap."},
+      {"title": "Trending Designs ✨", "message": "Check out new trending photo borders now."},
+      {"title": "Special Moments ❤️", "message": "Celebrate your memories with stunning frame edits."},
+      {"title": "Daily Feature 🔥", "message": "Discover today's most popular frame styles."},
+      {"title": "Edit Like a Pro 🌟", "message": "Apply beautiful filters and frames instantly."},
+      {"title": "Festival Collection 🎊", "message": "Fresh templates are waiting for your photos."},
+      {"title": "Don't Miss Out! 🚀", "message": "Open the app to see today's curated layouts."}
+    ],
+    "Photoeditor": [
+      {"title": "Enhance Your Photos ✂️", "message": "Use premium effects on your pictures today."},
+      {"title": "Fresh Filters Inside 🌈", "message": "Transform your images with 1-click presets."},
+      {"title": "Pro Editing Made Easy 🖌️", "message": "Retouch and share your best edits now."}
+    ]
+  }
+}
