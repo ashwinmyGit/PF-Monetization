@@ -4,7 +4,7 @@
   },
   "apps_config": {
   "app_version_control": {
-    "com.photofusion.photoeditorpro": {
+    "com.photofusion.holiphotoframe": {
       "min_version_code": 1.1,
       "force_update": false,
       "update_url": "https://play.google.com/store/apps/details?id=com.photofusion.holiphotoframe"
@@ -16,7 +16,7 @@
     "show_interstitial": true,
     "show_rewarded": true,
     "show_native": true,
-    "show_open_app": false,
+    "show_open_app": true,
     "ad_units": {
       "banner": "ca-app-pub-394025609942544/6300978111",
       "interstitial": "ca-app-pub-394025609942544/1033173712",
