@@ -4,7 +4,7 @@
   },
   "apps_config": {
     "com.photofusion.holiphotoframe": {
-      "ads_enabled": false,
+      "ads_enabled": true,
       "show_banner": true,
       "show_interstitial": true,
       "show_rewarded": true,
