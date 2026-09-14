@@ -3,8 +3,8 @@
     "global_ads_enabled": true
   },
   "apps_config": {
-    "com.photofusion.festivalphotoframes": {
-      "ads_enabled": true,
+    "com.photofusion.holiphotoframe": {
+      "ads_enabled": false,
       "show_banner": true,
       "show_interstitial": true,
       "show_rewarded": true,
