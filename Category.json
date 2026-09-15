@@ -3,31 +3,22 @@
     "global_ads_enabled": true
   },
   "apps_config": {
-  "app_version_control": {
     "com.photofusion.holiphotoframe": {
-      "min_version_code": 1.1,
-      "force_update": true,
-      "update_url": "https://play.google.com/store/apps/details?id=com.photofusion.holiphotoframe"
-    }
-  },
-  "com.photofusion.holiphotoframe": {
-    "ads_enabled": true,
-    "show_banner": true,
-    "show_interstitial": true,
-    "show_rewarded": true,
-    "show_native": true,
-    "show_open_app": true,
-    "ad_units": {
-      "banner": "ca-app-pub-394025609942544/6300978111",
-      "interstitial": "ca-app-pub-394025609942544/1033173712",
-      "rewared": "ca-app-pub-394025609942544/5224354917",
-      "native": "ca-app-pub-394025609942544/2247696110",
-      "open_app": "ca-app-pub-394025609942544/9257395921"
-    }
-  }
-}
+      "ads_enabled": true,
+      "show_banner": true,
+      "show_interstitial": true,
+      "show_rewarded": true,
+      "show_native": true,
+      "show_open_app": true,
+      "ad_units": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "open_app": "ca-app-pub-3940256099942544/9257395921"
+      }
     },
-    "com.photofusion.photoeditorpro": {
+    "com.photofusion.pfads": {
       "ads_enabled": true,
       "show_banner": true,
       "show_interstitial": true,
@@ -61,13 +52,13 @@
   "Category": {
     "Photoframe": [
       {
-        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_banner.png",
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
         "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.photoeditorpro"
       }
     ],
     "Photoeditor": [
       {
-        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_banner.png",
+        "InHouseAdImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
         "InHouseAdPlaystorelink": "https://play.google.com/store/apps/details?id=com.photofusion.festivalphotoframes"
       }
     ]
