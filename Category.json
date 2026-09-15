@@ -18,7 +18,7 @@
         "open_app": "ca-app-pub-3940256099942544/9257395921"
       }
     },
-    "com.photofusion.pfads": {
+    "com.photofusion.pfadsadmin": {
       "ads_enabled": true,
       "show_banner": true,
       "show_interstitial": true,
