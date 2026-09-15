@@ -5,6 +5,7 @@
   "apps_config": {
     "com.photofusion.holiphotoframe": {
       "ads_enabled": true,
+      "package_valid": true,
       "show_banner": true,
       "show_interstitial": true,
       "show_rewarded": true,
@@ -20,6 +21,7 @@
     },
     "com.photofusion.pfadsadmin": {
       "ads_enabled": true,
+      "package_valid": true,
       "show_banner": true,
       "show_interstitial": true,
       "show_rewarded": true,
