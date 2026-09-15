@@ -26,7 +26,7 @@
       "show_interstitial": true,
       "show_rewarded": true,
       "show_native": true,
-      "show_open_app": false,
+      "show_open_app": true,
       "ad_units": {
         "banner": "ca-app-pub-3940256099942544/6300978111",
         "interstitial": "ca-app-pub-3940256099942544/1033173712",
