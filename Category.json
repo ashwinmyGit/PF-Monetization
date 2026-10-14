@@ -5,6 +5,8 @@
   "apps_config": {
     "com.photofusion.holiphotoframe": {
       "ads_enabled": true,
+      "use_admob": true,
+      "startapp_app_id": "",
       "package_valid": true,
       "show_banner": true,
       "show_interstitial": true,
@@ -21,6 +23,8 @@
     },
     "com.photofusion.pfadsadmin": {
       "ads_enabled": true,
+      "use_admob": true,
+      "startapp_app_id": "",
       "package_valid": true,
       "show_banner": true,
       "show_interstitial": true,
@@ -35,8 +39,10 @@
         "open_app": "ca-app-pub-3940256099942544/9257395921"
       }
     },
-      "com.photofusion.navratriphotoframe": {
+    "com.photofusion.navratriphotoframe": {
       "ads_enabled": true,
+      "use_admob": false,
+      "startapp_app_id": "205489527",
       "package_valid": true,
       "show_banner": true,
       "show_interstitial": true,
@@ -44,16 +50,18 @@
       "show_native": true,
       "show_open_app": true,
       "ad_units": {
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded": "ca-app-pub-3940256099942544/5224354917",
-        "native": "ca-app-pub-3940256099942544/2247696110",
-        "open_app": "ca-app-pub-3940256099942544/9257395921"
+        "banner": "",
+        "interstitial": "",
+        "rewarded": "",
+        "native": "",
+        "open_app": ""
       }
     }
   },
   "default_fallback_config": {
     "ads_enabled": true,
+    "use_admob": true,
+    "startapp_app_id": "",
     "show_banner": true,
     "show_interstitial": true,
     "show_rewarded": true,
