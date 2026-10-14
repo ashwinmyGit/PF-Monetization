@@ -42,7 +42,7 @@
     "com.photofusion.navratriphotoframe": {
       "ads_enabled": true,
       "use_admob": false,
-      "startapp_app_id": "205489527",
+      "startapp_app_id": "209139216",
       "package_valid": true,
       "show_banner": true,
       "show_interstitial": true,
@@ -50,11 +50,11 @@
       "show_native": true,
       "show_open_app": true,
       "ad_units": {
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded": "ca-app-pub-3940256099942544/5224354917",
-        "native": "ca-app-pub-3940256099942544/2247696110",
-        "open_app": "ca-app-pub-3940256099942544/9257395921"
+        "banner": "ca-app-pub-1117294450683756/6323327276",
+        "interstitial": "ca-app-pub-1117294450683756/5998488677",
+        "rewarded": "ca-app-pub-1117294450683756/6938119537",
+        "native": "ca-app-pub-1117294450683756/2111214559",
+        "open_app": "ca-app-pub-1117294450683756/8694339742"
       }
     }
   },
