@@ -41,7 +41,7 @@
     },
     "com.photofusion.navratriphotoframe": {
       "ads_enabled": true,
-      "use_admob": false,
+      "use_admob": true,
       "startapp_app_id": "209139216",
       "package_valid": true,
       "show_banner": true,
