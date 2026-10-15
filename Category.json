@@ -96,14 +96,14 @@
   "Category": {
     "Photoframe": [
       {
-        "portraitImageUrl": "https://raw.githubusercontent.com/your-account/your-repo/main/banners/photoframe_portrait.png",
+        "portraitImageUrl": "https://raw.githubusercontent.com/PF-Monetzation/promo_fullscreen.png",
         "landscapeImageUrl": "https://raw.githubusercontent.com/your-account/your-repo/main/banners/photoframe_landscape.png",
         "playStoreLink": "https://play.google.com/store/apps/details?id=com.photofusion.photoeditorpro"
       }
     ],
     "Photoeditor": [
       {
-        "portraitImageUrl": "https://raw.githubusercontent.com/your-account/your-repo/main/banners/editor_portrait.png",
+        "portraitImageUrl": "https://raw.githubusercontent.com/PF-Monetzation/promo_fullscreen.png",
         "landscapeImageUrl": "https://raw.githubusercontent.com/your-account/your-repo/main/banners/editor_landscape.png",
         "playStoreLink": "https://play.google.com/store/apps/details?id=com.photofusion.festivalphotoframes"
       }
