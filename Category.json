@@ -39,6 +39,24 @@
         "open_app": "ca-app-pub-3940256099942544/9257395921"
       }
     },
+    "com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor": {
+      "ads_enabled": true,
+      "use_admob": true,
+      "startapp_app_id": "",
+      "package_valid": true,
+      "show_banner": true,
+      "show_interstitial": true,
+      "show_rewarded": true,
+      "show_native": true,
+      "show_open_app": true,
+      "ad_units": {
+        "banner": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial": "ca-app-pub-3940256099942544/1033173712",
+        "rewarded": "ca-app-pub-3940256099942544/5224354917",
+        "native": "ca-app-pub-3940256099942544/2247696110",
+        "open_app": "ca-app-pub-3940256099942544/9257395921"
+      }
+    },
     "com.photofusion.navratriphotoframe": {
       "ads_enabled": true,
       "use_admob": true,
