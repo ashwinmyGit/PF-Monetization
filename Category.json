@@ -41,7 +41,7 @@
     },
     "com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor": {
       "ads_enabled": true,
-      "use_admob": false,
+      "use_admob": true,
       "startapp_app_id": "209139724",
       "package_valid": true,
       "show_banner": true,
