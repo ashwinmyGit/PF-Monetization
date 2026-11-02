@@ -93,22 +93,6 @@
       "open_app": "ca-app-pub-3940256099942544/9257395921"
     }
   },
-  "Category": {
-    "Photoframe": [
-      {
-        "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
-        "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_landscape.jpg",
-        "playStoreLink": "https://play.google.com/store/apps/details?id=com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor"
-      }
-    ],
-    "Photoeditor": [
-      {
-        "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
-        "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_landscape.jpg",
-        "playStoreLink": "https://play.google.com/store/apps/details?id=com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor"
-      }
-    ]
-  },
   "Notifications": {
     "Photoframe": [
       {
@@ -140,16 +124,18 @@
       "enabled": true,
       "appName": "Girls Photo Suit Editor",
       "packageId": "com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor",
-      "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
-      "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_landscape.jpg",
+      "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P1_promo_Potrait.png",
+      "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P1_promo_landscape.jpg",
+      "nativeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P1_native-cross.png",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor"
     },
     "priority2": {
       "enabled": true,
       "appName": "Navratri Photo Frame",
       "packageId": "com.photofusion.navratriphotoframe",
-      "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
-      "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_landscape.jpg",
+      "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P2_promo_Potrait.png",
+      "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P2_promo_landscape.png",
+      "nativeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P2_native-cross.png",
       "playStoreUrl": "https://play.google.com/store/apps/details?id=com.photofusion.navratriphotoframe"
     }
   }
