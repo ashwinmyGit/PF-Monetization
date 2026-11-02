@@ -50,11 +50,11 @@
       "show_native": true,
       "show_open_app": true,
       "ad_units": {
-        "banner": "ca-app-pub-3940256099942544/6300978111",
-        "interstitial": "ca-app-pub-3940256099942544/1033173712",
-        "rewarded": "ca-app-pub-3940256099942544/5224354917",
-        "native": "ca-app-pub-3940256099942544/2247696110",
-        "open_app": "ca-app-pub-3940256099942544/9257395921"
+        "banner": "ca-app-pub-1117294450683756/2506560755",
+        "interstitial": "ca-app-pub-1117294450683756/7914482871",
+        "rewarded": "ca-app-pub-1117294450683756/3819642420",
+        "native": "ca-app-pub-1117294450683756/7766626299",
+        "open_app": "ca-app-pub-1117294450683756/2693945782"
       }
     },
     "com.photofusion.navratriphotoframe": {
