@@ -134,5 +134,23 @@
         "message": "Cut, crop, and tune your pictures with HD export."
       }
     ]
+  },
+  "CrossPromo": {
+    "priority1": {
+      "enabled": true,
+      "appName": "Girls Photo Suit Editor",
+      "packageId": "com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor",
+      "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
+      "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_landscape.jpg",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor"
+    },
+    "priority2": {
+      "enabled": true,
+      "appName": "Navratri Photo Frame",
+      "packageId": "com.photofusion.navratriphotoframe",
+      "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_fullscreen.png",
+      "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/promo_landscape.jpg",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.photofusion.navratriphotoframe"
+    }
   }
 }
