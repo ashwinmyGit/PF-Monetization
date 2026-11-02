@@ -123,7 +123,7 @@
     "priority1": {
       "enabled": true,
       "appName": "Diwali Photo Frame",
-      "packageId": "com.photofusion.girlsphotosuiteditor.sarees.suit.dresses.women.traditional.girls.photo.editor",
+      "packageId": "com.photofusion.diwaliphotoframe",
       "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P1_promo_Potrait.png",
       "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P1_promo_landscape.jpg",
       "nativeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P1_native-cross.png",
@@ -132,7 +132,7 @@
     "priority2": {
       "enabled": true,
       "appName": "Chhat Pooja Photo Frame",
-      "packageId": "com.photofusion.navratriphotoframe",
+      "packageId": "com.photofusion.chhathpuja.photoframe",
       "portraitImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P2_promo_Potrait.png",
       "landscapeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P2_promo_landscape.png",
       "nativeImageUrl": "https://raw.githubusercontent.com/ashwinmyGit/PF-Monetization/main/P2_native-cross.png",
